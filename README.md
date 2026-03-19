@@ -1,2 +1,3 @@
-# micro-knowledge-base-kbak
-A knowledge management system for modern development workflows
+# Micro Knowledge Base Kbak
+
+A knowledge management system for modern development workflows.
